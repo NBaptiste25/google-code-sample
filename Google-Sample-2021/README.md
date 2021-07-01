@@ -1,4 +1,4 @@
-# BrightNetworkUK-GCC-2021
+# Google Sample Code, in association with Bright Networks - 2021
 This repo is related to Google Coding Challenge, given to Bright Network Internship Experience 2021.
 Programming Language: Python.
 
